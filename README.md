@@ -1,10 +1,7 @@
-# Feynn_Labs_Project3
-AI Product Service Prototype Development and Business/Financial Modelling
-
 # DeepFake_Detection
 ## Table of Contents:
 - What is DeepFake?
-- Demo of the AI model
+- Demo of the Project
 - Impact of DeepFake Videos
 - Project Objectives
 - Project Pipeline
@@ -15,7 +12,7 @@ AI Product Service Prototype Development and Business/Financial Modelling
   - Code Running Commands
 - Technologies Used
 - Conclusion
-
+- Team
 
 
 ## What is DeepFake?
@@ -27,7 +24,7 @@ images and videos using Generative Adversarial Networks (GAN) and these networks
 are developing better every day
 
 ## Demo of the Project
-Link : https://youtu.be/wy8mVnBZ6pY
+Link : https://www.youtube.com/watch?v=wy8mVnBZ6pY&ab_channel=BalajiKartheek
 
 ## Impact of DeepFake Videos
 - DeepFakes can be used to create fake news, celebrity unusual videos, politician
@@ -49,9 +46,9 @@ videos.
 ![image](https://user-images.githubusercontent.com/77656115/206965843-6ac74168-3e31-43d6-9bbf-3e3d25e17522.png)
 
 ### Goal:
-To Crate a deep learning model that is capable of recognizing deepfake images/videos. A
+To Crate a deep learning model that is capable of recognizing deepfake images. A
 thorough analysis of deepfake video frames to identify slight imperfections in the face
-head and the model will learn what features differentiate a real image/video from a deepfake.
+head and the model will learn what features differentiate a real image from a deepfake.
 
 ![image](https://user-images.githubusercontent.com/77656115/206965890-a1c345cf-8ae9-49f7-b498-ae4c7168666a.png)
 
@@ -155,6 +152,9 @@ using this approach. Our model has high precision for FAKE videos which is obtai
 more FAKE videos during the training of the Model.
 
 
+## Team :
+1.  [Balaji Kartheek](https://github.com/Balaji-Kartheek)
+2.  [Aaron Dsouza](https://github.com/DsouzaAaron)
 
 
 
